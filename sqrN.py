@@ -1,0 +1,5 @@
+N=int(input("enter N value:"))
+print(N**2)
+x=int(input("enter x value:"))
+y=int(input("enter y value:"))
+print(x**y)
